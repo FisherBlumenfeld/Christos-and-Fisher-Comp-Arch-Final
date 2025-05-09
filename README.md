@@ -10,7 +10,7 @@ sign extension module (16 to 32 bit)
 Registers (32x32-bit registers)
 Adder (32 bit, adding 4 to PC)
 Adder (32 bit, for branching, after shift left 2)
-Data Memory (X tall, 32 bit wide registers, byte adressable)
+Data Memory (RAM, X tall, 32 bit wide registers, byte adressable)
 
 Completed modules:
 
